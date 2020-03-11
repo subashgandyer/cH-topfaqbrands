@@ -1,0 +1,786 @@
+Brand Name = mirena
+
+Top Question Topics for mirena brand. 
+
+AE ONLY          2641
+PTCGEN           1859
+REPLACEMENT      1310
+AE and PTC       1114
+GENINFO           511
+OTHER             466
+AVAIL             250
+MKTG MAT          231
+SAMPLE            199
+MSL REQUEST       189
+REPREQ            101
+REIMBURSEMENT      92
+F UP               66
+MSL Request        65
+PTC                51
+AEGEN              44
+PRICE              43
+STABIL             40
+PRECAUT            28
+STORE              21
+FORMUL             15
+PRODEFF            14
+CLINDATA           11
+INDIC               7
+INTERDRUG           4
+COMBO               3
+PHARKIN             3
+MSDS                3
+CONTRA              2
+PROD ID             2
+DOSEADM             2
+MOA                 1
+CLINPART            1
+PRODLAB             1
+COMPEFF             1
+PHARDYN             1
+DISPO               1
+FEEDBACK            1
+NAMEPT              1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = imag general
+
+Top Question Topics for imag general brand. 
+
+OTHER          33
+MSL REQUEST     6
+AVAIL           6
+GENINFO         5
+PTCGEN          4
+PRODLAB         2
+PRICE           2
+REPREQ          1
+AE and PTC      1
+F UP            1
+MKTG MAT        1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = betaseron
+
+Top Question Topics for betaseron brand. 
+
+GENINFO        45
+PTCGEN         20
+REPLACEMENT    13
+MSL REQUEST     9
+OTHER           9
+AE ONLY         8
+STORE           5
+AE and PTC      5
+PRODEFF         4
+STABIL          4
+AVAIL           3
+AEGEN           2
+FORMUL          2
+DISPO           2
+PRICE           2
+MKTG MAT        2
+PREG            2
+F UP            1
+MSDS            1
+PRECAUT         1
+MSL Request     1
+REPREQ          1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = darolutamide
+
+Top Question Topics for darolutamide brand. 
+
+CLINDATA       11
+MSL REQUEST     7
+OTHER           6
+NAMEPT          4
+GENINFO         4
+PUBL            3
+PHARECO         3
+CLINPART        2
+AVAIL           2
+REPREQ          1
+MOA             1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = regorafenib
+
+Top Question Topics for regorafenib brand. 
+
+MSL REQUEST    4
+CLINDATA       2
+GENINFO        1
+DOSEADM        1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = xofigo
+
+Top Question Topics for xofigo brand. 
+
+AE ONLY          153
+GENINFO          137
+MSL REQUEST       62
+OTHER             42
+DOSEADM           41
+MSL Request       40
+INDIC             38
+CLINDATA          36
+AEGEN             23
+PRECAUT           23
+COMBO             21
+AVAIL             13
+REPREQ            10
+MONITOR            7
+INTERDRUG          5
+NAMEPT             4
+CONTRA             4
+PRODEFF            4
+MKTG MAT           4
+PTCGEN             3
+COMPAT             3
+REIMBURSEMENT      3
+COMPEFSAF          2
+AE and PTC         2
+FORMUL             2
+CLINPART           2
+COMPSAF            2
+PUBL               1
+HEOR REQUEST       1
+NO INQ             1
+COMPEFF            1
+PREG               1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = adempas
+
+Top Question Topics for adempas brand. 
+
+MSL REQUEST    120
+GENINFO         61
+AE ONLY         38
+OTHER           34
+AVAIL           24
+CLINPART        11
+COMBO            9
+SWITCH           9
+MSL Request      8
+DOSEADM          6
+PRODEFF          6
+F UP             6
+CLINDATA         6
+PRICE            5
+FORMUL           3
+COMPEFSAF        2
+FEEDBACK         2
+REPREQ           2
+AEGEN            2
+STORE            1
+PTCGEN           1
+PROD ID          1
+PUBL             1
+PRECAUT          1
+PURE-CLIN        1
+RENAL            1
+CRUSH            1
+MKTG MAT         1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = gadavist
+
+Top Question Topics for gadavist brand. 
+
+AE ONLY          156
+GENINFO          102
+MSL REQUEST       96
+DOSEADM           39
+OTHER             22
+MSL Request       14
+PTCGEN            13
+REPLACEMENT       10
+MSDS               5
+FORMUL             4
+REPREQ             4
+CLINDATA           3
+AVAIL              3
+MKTG MAT           3
+PRECAUT            3
+AEGEN              3
+REIMBURSEMENT      2
+COMPEFF            2
+STORE              1
+PROD ID            1
+INDIC              1
+AE and PTC         1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = climara
+
+Top Question Topics for climara brand. 
+
+PTCGEN         30
+REPLACEMENT    25
+GENINFO        20
+AE ONLY         9
+AE and PTC      8
+OTHER           7
+FORMUL          5
+DOSEADM         3
+AVAIL           2
+PTC             1
+STORE           1
+MKTG MAT        1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = onc general
+
+Top Question Topics for onc general brand. 
+
+OTHER          24
+GENINFO         3
+MSL REQUEST     2
+PRECAUT         2
+CLINPART        2
+AE ONLY         1
+PUBL            1
+CLINDATA        1
+AVAIL           1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = whc general
+
+Top Question Topics for whc general brand. 
+
+MKTG MAT         136
+AVAIL             49
+OTHER             45
+REPREQ            43
+GENINFO           27
+SAMPLE            10
+PTCGEN             8
+REIMBURSEMENT      7
+PRICE              7
+F UP               6
+AE ONLY            5
+MSL REQUEST        4
+PRODLAB            2
+REPLACEMENT        1
+INTERDRUG          1
+NO INQ             1
+DISPO              1
+PTC                1
+AE and PTC         1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = nubeqa
+
+Top Question Topics for nubeqa brand. 
+
+MSL REQUEST    34
+GENINFO        21
+PHARECO        17
+CLINDATA       10
+INTERDRUG       9
+AVAIL           8
+AE ONLY         8
+INDIC           7
+REPREQ          6
+CLINPART        5
+OTHER           4
+STORE           3
+MSDS            2
+DOSEADM         2
+PRECAUT         2
+PHARKIN         1
+STABIL          1
+MONITOR         1
+AEGEN           1
+COMBO           1
+NGADM           1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = skyla
+
+Top Question Topics for skyla brand. 
+
+AE ONLY          181
+PTCGEN           179
+REPLACEMENT      113
+GENINFO          107
+AE and PTC        73
+AVAIL             49
+MKTG MAT          44
+OTHER             34
+REIMBURSEMENT     30
+STABIL            24
+SAMPLE            12
+F UP              10
+STORE              8
+REPREQ             8
+PRICE              8
+MSL REQUEST        7
+DISPO              6
+PTC                4
+AEGEN              2
+DOSEADM            2
+DISCONT            1
+CONTRA             1
+MSL Request        1
+FORMUL             1
+PRECAUT            1
+PRODLAB            1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = ultravist
+
+Top Question Topics for ultravist brand. 
+
+AE ONLY          13
+OTHER             8
+AVAIL             8
+GENINFO           7
+PTCGEN            6
+REIMBURSEMENT     5
+AE and PTC        2
+PRICE             2
+REPREQ            1
+REPLACEMENT       1
+INDIC             1
+DOSEADM           1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = climara pro
+
+Top Question Topics for climara pro brand. 
+
+PTCGEN         65
+REPLACEMENT    57
+GENINFO        24
+AE and PTC     15
+OTHER          15
+AE ONLY         9
+DOSEADM         8
+FORMUL          6
+SAMPLE          5
+MKTG MAT        4
+PTC             1
+PRICE           1
+REPREQ          1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = stivarga
+
+Top Question Topics for stivarga brand. 
+
+MSL REQUEST      80
+CLINDATA         71
+DOSEADM          63
+AE ONLY          55
+OTHER            29
+GENINFO          29
+AVAIL            15
+AEGEN            12
+CLINPART         11
+STORE            10
+STABIL           10
+MSL Request       9
+INDIC             7
+PUBL              7
+REIMBURSEMENT     6
+SAMPLE            5
+F UP              4
+PRECAUT           4
+REPREQ            4
+PTCGEN            4
+COMBO             4
+PRICE             3
+CRUSH             3
+MOA               3
+FORMUL            3
+PRODEFF           2
+RENAL             2
+MSDS              2
+NAMEPT            2
+AE and PTC        2
+INTERFOOD         1
+COMPEFF           1
+MKTG MAT          1
+DISPO             1
+PACKAG            1
+HEPATIC           1
+PHARKIN           1
+PREG              1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = nan
+
+Top Question Topics for nan brand. 
+
+Series([], Name: Topic, dtype: int64)
+
+
+
+Brand Name = vitrakvi
+
+Top Question Topics for vitrakvi brand. 
+
+MSL REQUEST      114
+AVAIL             94
+GENINFO           81
+CLINDATA          42
+OTHER             38
+AE ONLY           36
+PHARECO           19
+INDIC             13
+MSL Request       10
+REPREQ            10
+STABIL             8
+AEGEN              8
+PRODEFF            6
+DOSEADM            6
+CLINPART           6
+EPID               5
+NAMEPT             5
+STORE              5
+MKTG MAT           5
+F UP               4
+PRECAUT            3
+MOA                3
+PUBL               2
+PTCGEN             2
+RENAL              1
+REIMBURSEMENT      1
+DISPO              1
+INTERDRUG          1
+CRUSH              1
+PRECLIN            1
+NGADM              1
+PHARKIN            1
+AE and PTC         1
+GENDER             1
+PRICE              1
+COMBO              1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = larotrectinib
+
+Top Question Topics for larotrectinib brand. 
+
+OTHER       4
+AE ONLY     3
+CLINDATA    1
+GENINFO     1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = aliqopa
+
+Top Question Topics for aliqopa brand. 
+
+MSL REQUEST    26
+GENINFO        20
+CLINDATA       17
+AE ONLY        16
+OTHER          14
+STORE           8
+INDIC           6
+PTCGEN          6
+AVAIL           5
+AEGEN           5
+CLINPART        4
+NAMEPT          4
+MSDS            4
+REPLACEMENT     4
+STABIL          3
+DOSEADM         3
+FORMUL          2
+REPREQ          2
+MKTG MAT        1
+EPID            1
+MSL Request     1
+DISPO           1
+COMBO           1
+AE and PTC      1
+PHARECO         1
+PROD ID         1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = hem general
+
+Top Question Topics for hem general brand. 
+
+OTHER    2
+STORE    1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = jivi
+
+Top Question Topics for jivi brand. 
+
+PHARKIN        14
+MSL Request     8
+AEGEN           7
+GENINFO         7
+DOSEADM         7
+AE ONLY         5
+MSL REQUEST     5
+PRODEFF         4
+OTHER           3
+COMPEFSAF       3
+PHARECO         3
+PTCGEN          2
+AVAIL           2
+INDIC           1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = cipro
+
+Top Question Topics for cipro brand. 
+
+GENINFO       14
+DOSEADM       13
+AE ONLY        7
+FORMUL         4
+AVAIL          4
+STABIL         1
+AE and PTC     1
+PTC            1
+CRUSH          1
+OTHER          1
+CLINDATA       1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = kovaltry
+
+Top Question Topics for kovaltry brand. 
+
+GENINFO          12
+PTCGEN            7
+AE ONLY           6
+MSL Request       3
+STORE             3
+OTHER             3
+FORMUL            2
+STABIL            2
+AE and PTC        2
+MKTG MAT          2
+PTC               1
+MSL REQUEST       1
+REIMBURSEMENT     1
+REPLACEMENT       1
+PHARKIN           1
+PRECAUT           1
+PHARECO           1
+DOSEADM           1
+AVAIL             1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = general
+
+Top Question Topics for general brand. 
+
+OTHER       21
+GENINFO      4
+MSDS         2
+CLINDATA     2
+REPREQ       1
+MKTG MAT     1
+PRICE        1
+NO INQ       1
+SAMPLE       1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = neuro general
+
+Top Question Topics for neuro general brand. 
+
+OTHER    1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = nexavar
+
+Top Question Topics for nexavar brand. 
+
+AE ONLY          36
+GENINFO          29
+OTHER            23
+CLINDATA         19
+MSL REQUEST      15
+INDIC            14
+DOSEADM          11
+AVAIL            10
+MSL Request       7
+FORMUL            4
+AEGEN             4
+PRICE             3
+CRUSH             3
+F UP              2
+MKTG MAT          2
+COMBO             2
+NAMEPT            2
+REPREQ            2
+MSDS              2
+MOA               2
+REIMBURSEMENT     1
+STORE             1
+NGADM             1
+PHARKIN           1
+REPLACEMENT       1
+STABIL            1
+PTCGEN            1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = eovist
+
+Top Question Topics for eovist brand. 
+
+GENINFO          18
+AE ONLY          15
+MSL REQUEST       4
+DOSEADM           4
+AE and PTC        4
+REPLACEMENT       3
+MSDS              3
+PTCGEN            3
+MSL Request       3
+PRICE             3
+PRECAUT           2
+STABIL            2
+FORMUL            2
+REIMBURSEMENT     1
+PHARDYN           1
+INDIC             1
+MKTG MAT          1
+AEGEN             1
+AVAIL             1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = kyleena
+
+Top Question Topics for kyleena brand. 
+
+AE ONLY          539
+PTCGEN           306
+GENINFO          188
+REPLACEMENT      180
+AE and PTC       131
+OTHER             62
+MSL REQUEST       57
+MKTG MAT          44
+AVAIL             27
+SAMPLE            20
+REPREQ            19
+REIMBURSEMENT     19
+MSL Request       17
+PRECAUT           13
+PRODLAB           11
+PTC                8
+AEGEN              7
+STABIL             5
+DOSEADM            5
+PRODEFF            4
+F UP               4
+PRICE              3
+CLINDATA           3
+STORE              3
+INDIC              2
+DISPO              1
+CLINPART           1
+GENDER             1
+PREG               1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = kogenate fs w vial adaptor
+
+Top Question Topics for kogenate fs w vial adaptor brand. 
+
+AE ONLY        11
+PTCGEN          5
+AE and PTC      3
+OTHER           3
+GENINFO         3
+REPLACEMENT     2
+PRECAUT         2
+DOSEADM         1
+Name: Topic, dtype: int64
+
+
+
+Brand Name = kogenate fs
+
+Top Question Topics for kogenate fs brand. 
+
+AE ONLY          45
+PTCGEN           31
+AE and PTC       28
+GENINFO          22
+OTHER            16
+DOSEADM          13
+PTC               9
+REIMBURSEMENT     8
+INDIC             5
+REPLACEMENT       4
+STABIL            3
+STORE             3
+MSDS              3
+PRECAUT           2
+PHARECO           1
+AVAIL             1
+REPREQ            1
+Name: Topic, dtype: int64
